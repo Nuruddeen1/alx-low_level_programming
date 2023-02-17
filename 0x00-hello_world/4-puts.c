@@ -2,7 +2,7 @@
 
 /**
  *the alx program
- * is awesome
+ *is awesome
  */
 
 int main(void)
