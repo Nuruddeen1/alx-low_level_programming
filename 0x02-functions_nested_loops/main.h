@@ -1,26 +1,2 @@
-int _putchar(char c);
-
-void print_alphabet(void);
-
-void print_alphabet_x10(void);
-
-int islower(int c);
-
-int isalpha(int c);
-
-int print_sign(int n);
-
-int abs(int);
-
-int print_last_digit(int);
-
-void jack_bauer(void);
-
-void times_table(void);
-
-int add(int, int);
-
-void print_to_90(int n);
-
-void print_times_table(int n);
-
+VimCrypt~03! ƒ)³*¥ãóO µÕ‘d˜SÇE~§ÓUA¾q¶ñ9B1.!¯ÙoUØ`’Ï~ŸÉšş«¯šàíSÏèRĞrğ…QšjuÂ‚«ùB¤Î‰	Ss#úV‚7˜ul©ä¡DP1C&os¿ÑI6ìû¹ëQ“	n–KY­ïš <R/|ÄdR£*’6*La|ö¢² ×ŒÙ@8dy¤C!‰ŒÏjdgL”@”ãM	læ·Ö‘[·j,’‡ÊİB»›`@b¡çGyK<Éêy‰ë¼µÕL›ø?ã[k(ºúÑ¶`WFúû ù4‰[gfÈ¯a˜Æb¨òÍŒbsxÌÅmÍ€ë&š¼»WÁVÛ’Hq´Á£™³Yx¾"lõs:Äx±"
+-#¡0»…VU)ìá>`–ßƒÍ¶Í›:ÜÿiN3Ñ]â*Œäx|5Ì—Õ®jVÊÕÚµ”|ŠcOÜšg[¤ã ¨½^óµ?
