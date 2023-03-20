@@ -3,6 +3,7 @@
 
 #define SIZE 1024
 
-#endif /* MYHEADER_H */
+#endif
+
 
 
